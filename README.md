@@ -3,4 +3,4 @@
 
 ### [Written report]()
 ### [Slide]()
-### [Python notebook]()
+### [Python notebook](https://github.com/Hu1haoZhang/Astro_5205_Project3_Group6/blob/main/Astro5205Pr3Gr6.ipynb)
